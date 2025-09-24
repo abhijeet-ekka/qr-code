@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - **Solution URL:** [View on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-abhijeet-ekka)
-- **Live Site URL:** [View Live Demo](https://your-live-site-url.com)
+- **Live Site URL:** [View Live Demo]([https://your-live-site-url.com](https://abhijeet-ekka.github.io/qr-code/))
 
 ## My Process
 
