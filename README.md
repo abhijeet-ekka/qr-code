@@ -5,7 +5,6 @@ This is my solution to the [QR Code Component Challenge](https://www.frontendmen
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
@@ -25,15 +24,11 @@ Users should be able to:
 - See a responsive design that adapts to different screen sizes
 - Experience clean, accessible markup and styling
 
-### Screenshot
-
-![QR Code Component Screenshot](./screenshot.jpg)
 
 *Screenshot of the completed QR Code Component showing the card design with QR code image and descriptive text*
 
 ### Links
 
-- **Solution URL:** [View on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-abhijeet-ekka)
 - **Live Site URL:** [View Live Demo](https://abhijeet-ekka.github.io/qr-code/)
 
 ## My Process
