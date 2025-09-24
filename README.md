@@ -77,15 +77,6 @@ I learned to create a card component that looks great on all screen sizes:
 }
 ```
 
-**3. CSS Custom Properties**
-Using custom properties made the design more maintainable:
-
-```css
-:root {
-  --clr-primary: hsl(218, 44%, 22%);
-  --clr-secondary: hsl(220, 15%, 55%);
-  --clr-background: hsl(212, 45%, 89%);
-}
 ```
 
 ### Continued Development
